@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 dgtdgtr
 dgdbfgb
 fgbgfnfgnf
+=======
+rog
+android 
+iphone red magic
+>>>>>>> 7ecfa26 (commited)
